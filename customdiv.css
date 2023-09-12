@@ -1,0 +1,9 @@
+.customdiv{
+    margin: 3px;
+    margin-top: 50px;
+    height: 400px;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 800;
+    background-color: #c46868;
+}
